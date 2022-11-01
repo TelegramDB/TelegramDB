@@ -58,7 +58,7 @@ Per tenere i dati sempre aggiornati e in costante aumento abbiamo dei crawler di
 
 ## Come puoi contribuire al progetto
 ### Apri una discussione
-Se hai qualche domanda o hai da proporci qualche idea su come migliorare il progetto, sentiti libero di aprire una discussione qui su GitHub.
+Se hai qualche domanda o hai da proporci qualche idea su come migliorare il progetto, sentiti libero di aprire una discussione [qui](https://github.com/TelegramDB/TelegramDB/discussions) su GitHub.
 ### Partecipa alla nostra community su telegram
 - Bot: https://t.me/tgdb_bot
 - Canale News: https://t.me/tgdatabase

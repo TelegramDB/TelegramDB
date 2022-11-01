@@ -57,7 +57,7 @@ In order to keep the data up-to-date and constantly increasing, we have distruib
 
 ## How you can contribute to the project.
 ### Open a discussion.
-If you have any questions or have any ideas on how to improve the project, feel free to open a discussion here on GitHub.
+If you have any questions or have any ideas on how to improve the project, feel free to open a discussion [here](https://github.com/TelegramDB/TelegramDB/discussions) on GitHub.
 ### Join our community on telegram.
 - Bot: https://t.me/tgdb_bot
 - News Channel: https://t.me/tgdatabase
