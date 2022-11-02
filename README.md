@@ -45,7 +45,7 @@ You will always preview the cost and the number of results you will get before y
 - Every 40 results: 1 credit
 
 
-## Screenshots.
+## Screenshots
 <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/channel.webp" alt="channel" width="200"/> <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/commands.webp" alt="commands" width="200"/> <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/credits.webp" alt="credits" width="200"/> <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/group.webp" alt="group" width="200"/>
 <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/search.webp" alt="search" width="200"/> <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/where_pre.webp" alt="where_pre" width="200"/> <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/where_link.webp" alt="where_link" width="200"/> <img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/screen/where_done.webp" alt="where_done" width="200"/>
 
@@ -67,12 +67,12 @@ If you have any questions or have any ideas on how to improve the project, feel 
 You can help us translate these guidelines, or localize the bot and the site in your language.
 To do so, contact us on Telegram, or open a discussion.
 ### Report us groups/channels not in the database.
-We will be happy to add public channels and groups to our database, reporting them will help us grow and improve.
+We will be happy to add public channels and groups to our database, reporting them will help us grow and improve the project.
 
 ## Content policies (illegal/DMCA/GDPR).
 **Please note that we are not affiliated in any way with Telegram** and not to contact their support, in case the data is only present on our platforms.
 
-The content on our platforms, are obtained directly from Telegram, by crawling __public__ groups and channels accessible by anyone.
+The content on our platforms, are obtained directly from Telegram by crawling __public__ groups and channels accessible by anyone.
 
 We do not apply any kind of filtering on the data collected by Telegram, so it may be illegal, contain incitement to hatred and violence or terrorist propaganda; it is also possible that it violates copyright or intellectual property.
 
@@ -80,7 +80,7 @@ We also accept the deletion of personal data in full compliance with the GDPR, a
 
 To delete content we advise you, as a first step, to check whether it is still present on Telegram, in this case, proceed to contact their support, following the deletion by Telegram, proceed to contact us.
 
-In case Telegram does not respond to you, or for any other reason you need to remove content from our platform, we will be at your disposal to delete it.
+In case Telegram does not respond to you or for any other reason you need to remove content from our platform, we will be at your disposal to delete it.
 
 ### How to request deletion.
 Send an email to webmaster@telegramdb.org, specifying "chat deletion request" as the subject, providing the chat id/username and a brief explanation of why the chat needs to be removed.
