@@ -10,7 +10,7 @@ Tramite il nostro [bot](https://t.me/tgdb_bot) su Telegram è possibile cercare,
 Il bot funge anche da **motore di ricerca**, puoi cercare filtrando per gruppi e canali, e ottenere molti più risultati rispetto a una normale ricerca su Telegram.
 
 ## Perché TelegramDB?
-Il nostro scopo è rendere più semplice e immediato l'accesso a tutte le informazioni utili presenti su Telegram.
+Il nostro scopo è rendere più **semplice** e **immediato** l'accesso a tutte le informazioni utili presenti su Telegram.
 
 ## Come usare TelegramDB?
 Tramite [@tgdb_bot](https://t.me/tgdb_bot) puoi utilizzare il nostro servizio.

@@ -10,7 +10,7 @@ Through our [bot](https://t.me/tgdb_bot) on Telegram you can search, using our d
 The bot is also a **search engine**, you can search by filtering by groups and channels, and get many more results than a normal search on Telegram.
 
 ## Why TelegramDB?
-We aim to make it easier and more straightforward to access all the useful information on Telegram.
+We aim to make it **easier** and **straightforward** to access all the useful information on Telegram.
 
 ## How to use TelegramDB?
 Through [@tgdb_bot](https://t.me/tgdb_bot) you can use our service.
