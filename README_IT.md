@@ -60,10 +60,10 @@ Per tenere i dati sempre aggiornati e in costante aumento abbiamo dei crawler di
 ### Apri una discussione
 Se hai qualche domanda o hai da proporci qualche idea su come migliorare il progetto, sentiti libero di aprire una discussione [qui](https://github.com/TelegramDB/TelegramDB/discussions) su GitHub.
 ### Partecipa alla nostra community su telegram
-- Bot: https://t.me/tgdb_bot
-- Canale News: https://t.me/tgdatabase
-- Gruppo di supporto/discussione: https://t.me/tgdbchat
-- Account di supporto: https://t.me/tgdb_support (se possibile, contattaci sul gruppo)
+- Bot: [@tgdb_bot](https://t.me/tgdb_bot)
+- Canale News: [@tgdatabase](https://t.me/tgdatabase)
+- Gruppo di supporto/discussione: [@tgdbchat](https://t.me/tgdbchat)
+- Account di supporto: [@tgdb_support](https://t.me/tgdb_support) (se possibile, contattaci sul gruppo)
 ### Aiutaci nella localizzazione
 Puoi aiutarci a tradurre queste linee guida, oppure a localizzare il bot e il sito nella tua lingua.
 Per farlo, contattaci su Telegram, oppure apri una discussione.

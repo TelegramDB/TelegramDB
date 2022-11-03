@@ -59,10 +59,10 @@ In order to keep the data up-to-date and constantly increasing, we have distruib
 ### Open a discussion.
 If you have any questions or have any ideas on how to improve the project, feel free to open a discussion [here](https://github.com/TelegramDB/TelegramDB/discussions) on GitHub.
 ### Join our community on telegram.
-- Bot: https://t.me/tgdb_bot
-- News Channel: https://t.me/tgdatabase
-- Support/discussion group: https://t.me/tgdbchat
-- Support account: https://t.me/tgdb_support (if possible, contact us on the group)
+- Bot: [@tgdb_bot](https://t.me/tgdb_bot)
+- News Channel: [@tgdatabase](https://t.me/tgdatabase)
+- Support/discussion group: [@tgdbchat](https://t.me/tgdbchat)
+- Support account: [@tgdb_support](https://t.me/tgdb_support) (if possible, contact us on the group)
 ### Help us with localization.
 You can help us translate these guidelines, or localize the bot and the site in your language.
 To do so, contact us on Telegram, or open a discussion.
