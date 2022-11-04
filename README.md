@@ -92,3 +92,10 @@ In case Telegram does not respond to you or for any other reason you need to rem
 
 ### How to request deletion.
 Send an email to webmaster@telegramdb.org, specifying "chat deletion request" as the subject, providing the chat id/username and a brief explanation of why the chat needs to be removed.
+
+### Data we may collect
+We collect a basic data on financial transactions for validation, reimbursement and debugging purposes.
+
+Sometimes we may collect some behavioural and interaction data with our services for the sole purpose of technical and product performance improvement.
+
+We never sell people’s personal information to third parties and we also have strict internal log monitoring policies that require us to justify the reason for access.
