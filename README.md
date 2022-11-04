@@ -1,8 +1,11 @@
+<div align="center">
+
+<img title="TelegramDB.org - a search engine to search for channels, groups, bots and users on Telegram" src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/preview/preview.webp" alt="preview"/>
+
 [![Chat](https://www.telegramdb.org/stats/chats.svg)](https://www.telegramdb.org/stats)
 [![Users](https://www.telegramdb.org/stats/users.svg)](https://www.telegramdb.org/stats)
 [![Members](https://www.telegramdb.org/stats/members.svg)](https://www.telegramdb.org/stats)
-
-<img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/preview/preview.webp" alt="preview"/>
+</div>
 
 # TelegramDB
 **TelegramDB** is a service that allows you to search for channels, groups and their members.
