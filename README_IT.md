@@ -1,7 +1,13 @@
 <div align="center">
-[![Chat](https://www.telegramdb.org/stats/chats.svg)](https://www.telegramdb.org/stats)
-[![Utenti](https://www.telegramdb.org/stats/users.svg)](https://www.telegramdb.org/stats)
-[![Membri](https://www.telegramdb.org/stats/members.svg)](https://www.telegramdb.org/stats)
+<a href="https://www.telegramdb.org/stats">
+<img src="https://www.telegramdb.org/web/stats/chats.svg" alt="Chat"/>
+</a>
+<a href="https://www.telegramdb.org/stats">
+<img src="https://www.telegramdb.org/web/stats/users.svg" alt="Utenti"/>
+</a>
+<a href="https://www.telegramdb.org/stats">
+<img src="https://www.telegramdb.org/web/stats/members.svg" alt="Membri"/>
+</a>
 </div>
 
 # TelegramDB
