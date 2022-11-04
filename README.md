@@ -2,6 +2,8 @@
 [![Users](https://www.telegramdb.org/stats/users.svg)](https://www.telegramdb.org/stats)
 [![Members](https://www.telegramdb.org/stats/members.svg)](https://www.telegramdb.org/stats)
 
+<img src="https://github.com/TelegramDB/TelegramDB/blob/master/assets/preview/preview.webp" alt="preview"/>
+
 # TelegramDB
 **TelegramDB** is a service that allows you to search for channels, groups and their members.
 
