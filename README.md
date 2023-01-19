@@ -61,7 +61,7 @@ If you have any questions or have any ideas on how to improve the project, feel 
 - Support account: [@tgdb_support](https://t.me/tgdb_support) (if possible, contact us on the group)
 ### Help us with localization.
 You can help us translate these guidelines, or localize the bot and the site in your language.
-To do so, contact us on Telegram, or open a discussion.
+To do so, contact us on Telegram, or make a pull request here: https://github.com/TelegramDB/Localization.
 ### Report us groups/channels not in the database.
 We will be happy to add public channels and groups to our database, reporting them will help us grow and improve the project.
 
