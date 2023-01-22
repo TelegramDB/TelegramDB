@@ -1,4 +1,4 @@
-# TelegramDB [![Chat](https://www.telegramdb.org/stats/chats.svg)](https://www.telegramdb.org/stats) [![Groups](https://www.telegramdb.org/stats/groups.svg)](https://www.telegramdb.org/stats) [![Users](https://www.telegramdb.org/stats/users.svg)](https://www.telegramdb.org/stats) [![Bots](https://www.telegramdb.org/stats/bots.svg)](https://www.telegramdb.org/stats) [![Members](https://www.telegramdb.org/stats/members.svg)](https://www.telegramdb.org/stats)
+# TelegramDB [![Chat](https://www.telegramdb.org/stats/chats.svg?hl=en)](https://www.telegramdb.org/stats) [![Groups](https://www.telegramdb.org/stats/groups.svg?hl=en)](https://www.telegramdb.org/stats) [![Users](https://www.telegramdb.org/stats/users.svg?hl=en)](https://www.telegramdb.org/stats) [![Bots](https://www.telegramdb.org/stats/bots.svg?hl=en)](https://www.telegramdb.org/stats) [![Members](https://www.telegramdb.org/stats/members.svg?hl=en)](https://www.telegramdb.org/stats)
 **TelegramDB** is a service that allows you to search for channels, groups and their members.
 
 Through our [Telegram bot](https://t.me/tgdb_bot) you can search for all public groups that have been joined by a user.
